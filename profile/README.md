@@ -116,7 +116,7 @@ flowchart LR
 
 | 레포 | 무엇을 하나 | 스택 |
 |---|---|---|
-| [**offway-frontend**](https://github.com/team-offway/offway-frontend) | iOS 앱 · 홈 화면/잠금화면 위젯 · 다이나믹 아일랜드 · 공유 웹([offway.cloud](https://offway.cloud)) | Flutter · Swift · Vercel |
+| [**offway-client**](https://github.com/team-offway/offway-client) | iOS 앱 · 홈 화면/잠금화면 위젯 · 다이나믹 아일랜드 · 공유 웹([offway.cloud](https://offway.cloud)) | Flutter · Swift · Vercel |
 | [**core**](https://github.com/team-offway/core) | API 서버 · 지역 추천 · 코스 생성 · 연차 · 알림 · 백오피스 | Java · Spring Boot · MySQL · AWS |
 
 ---
